@@ -40,6 +40,3 @@ npm install
 # Run the project
 npm start
 ```
-
-### Output:
-![Desktop Screenshot 2023 12 07 - 15 32 31 26](https://github.com/SiddhantYerandkar/CompanyTask/assets/86118947/6922c3c0-87f8-4dac-9b1e-079b58723844)
