@@ -3,9 +3,10 @@
 ## Database Setup:
 
 1. Create a new Database with name "EmployeeDB"
-    ```sql
-    CREATE DATABASE EmployeeDB;
-    ```
+ 
+```sql
+CREATE DATABASE EmployeeDB;
+```
 2. Use "EmployeeDB" database
 
 ```sql
